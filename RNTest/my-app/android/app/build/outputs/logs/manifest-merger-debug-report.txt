@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.20.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\react-native-0.20.1.aar\317ee8475f23534feb0e319dfca7905c\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dbbe31c38218bf621263838d83a623c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:23.0.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.0.1.aar\f48d1c38c1ec00558c24d8ed28bcb24a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7eae87e974d124a212efb571d20f78b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\70e60264d8a03e4ebe8915ab06e242da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b61a8f93b113bafc23b317fc6f3ef4f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0cb08178be96fad2dc95c8c18e128d6e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d0b331d801e994161a3d939e4d013d1f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b8acc89d0dba9e9729b7c5fc4d4de527\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:0.8.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\fresco-0.8.1.aar\3040f0e51c9ca960dfe92333a31dc511\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.8.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp-0.8.1.aar\9a20e9902cc164085c9074d5be4e5a63\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:0.8.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\imagepipeline-0.8.1.aar\d73420c3dbc5dacea35da9afba61ba91\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:0.8.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\drawee-0.8.1.aar\a2dda9ebc74a722b4035a589deff9da8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\27cdf5988ff16c214d1449697b9783d4\AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\e3ce51fc3e4d24ec7e72c0bf302806c5\AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:0.8.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\fbcore-0.8.1.aar\8018b0c3ed463023c75b65e0e28a6d4c\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\661953efed1d059e102381b04606190a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ef7366e6d0f726f79183db9718249c9f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\105934e34a312aabe4312c6b994f6455\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\abd0fe30072e1ae91c4755689eebf0d6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:2:5-31
+		INJECTED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.20.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\react-native-0.20.1.aar\317ee8475f23534feb0e319dfca7905c\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.20.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\react-native-0.20.1.aar\317ee8475f23534feb0e319dfca7905c\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.20.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\react-native-0.20.1.aar\317ee8475f23534feb0e319dfca7905c\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.20.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\react-native-0.20.1.aar\317ee8475f23534feb0e319dfca7905c\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\27cdf5988ff16c214d1449697b9783d4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\27cdf5988ff16c214d1449697b9783d4\AndroidManifest.xml:22:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\e3ce51fc3e4d24ec7e72c0bf302806c5\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\e3ce51fc3e4d24ec7e72c0bf302806c5\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.mynewproject.MainActivity
+ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.20.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\react-native-0.20.1.aar\317ee8475f23534feb0e319dfca7905c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.20.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\react-native-0.20.1.aar\317ee8475f23534feb0e319dfca7905c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dbbe31c38218bf621263838d83a623c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dbbe31c38218bf621263838d83a623c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:23.0.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.0.1.aar\f48d1c38c1ec00558c24d8ed28bcb24a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.0.1.aar\f48d1c38c1ec00558c24d8ed28bcb24a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7eae87e974d124a212efb571d20f78b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7eae87e974d124a212efb571d20f78b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\70e60264d8a03e4ebe8915ab06e242da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\70e60264d8a03e4ebe8915ab06e242da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b61a8f93b113bafc23b317fc6f3ef4f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b61a8f93b113bafc23b317fc6f3ef4f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0cb08178be96fad2dc95c8c18e128d6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0cb08178be96fad2dc95c8c18e128d6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d0b331d801e994161a3d939e4d013d1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d0b331d801e994161a3d939e4d013d1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b8acc89d0dba9e9729b7c5fc4d4de527\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b8acc89d0dba9e9729b7c5fc4d4de527\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:0.8.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\fresco-0.8.1.aar\3040f0e51c9ca960dfe92333a31dc511\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:0.8.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\fresco-0.8.1.aar\3040f0e51c9ca960dfe92333a31dc511\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.8.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp-0.8.1.aar\9a20e9902cc164085c9074d5be4e5a63\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.8.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp-0.8.1.aar\9a20e9902cc164085c9074d5be4e5a63\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.8.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\imagepipeline-0.8.1.aar\d73420c3dbc5dacea35da9afba61ba91\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.8.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\imagepipeline-0.8.1.aar\d73420c3dbc5dacea35da9afba61ba91\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.8.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\drawee-0.8.1.aar\a2dda9ebc74a722b4035a589deff9da8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.8.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\drawee-0.8.1.aar\a2dda9ebc74a722b4035a589deff9da8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\27cdf5988ff16c214d1449697b9783d4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\27cdf5988ff16c214d1449697b9783d4\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.8.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\fbcore-0.8.1.aar\8018b0c3ed463023c75b65e0e28a6d4c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.8.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\fbcore-0.8.1.aar\8018b0c3ed463023c75b65e0e28a6d4c\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\661953efed1d059e102381b04606190a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\661953efed1d059e102381b04606190a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ef7366e6d0f726f79183db9718249c9f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ef7366e6d0f726f79183db9718249c9f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\105934e34a312aabe4312c6b994f6455\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\105934e34a312aabe4312c6b994f6455\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\abd0fe30072e1ae91c4755689eebf0d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\abd0fe30072e1ae91c4755689eebf0d6\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Rudzenka_PE\Documents\RNTest\my-app\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
