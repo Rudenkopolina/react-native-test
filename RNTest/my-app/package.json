@@ -4,20 +4,16 @@
   "scripts": {
     "start": "react-native start",
     "android": "react-native run-android",
-    "ios": "react-native run-ios",
-    "test": "node ./node_modules/jest/bin/jest.js --watchAll"
-  },
-  "jest": {
-    "preset": "react-native"
+    "ios": "react-native run-ios"
   },
   "dependencies": {
-    "@expo/samples": "2.1.1",
-    "react": "16.5.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
-    "react-navigation": "^2.18.2"
+    "react": "16.3.1",
+    "react-native": "0.57.1",
+    "react-native-linear-gradient": "^2.4.3"
   },
   "devDependencies": {
-    "babel-preset-expo": "^5.0.0",
-    "jest": "^23.6.0"
+    "@babel/runtime": "7.0.0",
+    "metro-react-native-babel-preset": "0.46.0",
+    "schedule": "0.4.0"
   }
 }

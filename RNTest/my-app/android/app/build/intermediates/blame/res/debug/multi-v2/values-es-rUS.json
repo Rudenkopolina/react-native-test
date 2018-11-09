@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Rudzenka_PE\\Documents\\RNTest\\my-app\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rUS\\values-es-rUS.xml",
+            "outputFile": "C:\\Users\\Rudzenka_PE\\Documents\\react-native-test\\RNTest\\my-app\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rUS\\values-es-rUS.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Rudzenka_PE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b8acc89d0dba9e9729b7c5fc4d4de527\\res\\values-es-rUS\\values-es-rUS.xml",
