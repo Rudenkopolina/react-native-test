@@ -1,68 +1,105 @@
 import React from 'react';
-import { StyleSheet, Text, View, TextInput, TouchableOpacity, Image } from 'react-native';
+import { connect } from 'react-redux';
+import { StyleSheet, Text, View, TextInput, TouchableOpacity, Image, ScrollView } from 'react-native';
+import Header from '../Header/Header';
+import { getCurrentUser } from "../../resources/users.action"
+import * as userSelector from '../../resources/users.selector';
 
-export default class SignIn extends React.Component {
-  state = {
-    placeName: '',
-    places: [],
+class SignIn extends React.Component {
+  static navigationOptions = {
+      header: null
   };
 
-  onPlaceNameChange = value => {
+  state = {
+    login: '',
+    password: '',
+  };
+
+  onChangeLogin = value => {
     this.setState({
-      placeName: value,
+      login: value,
     });
   };
 
-  onButtonPress = () => {
-    if (this.state.placeName.trim() !== '') {
-      this.setState({
-        places: [...this.state.places, this.state.placeName],
-      });
-    }
+  onChangePassword = value => {
+    this.setState({
+      password: value,
+    });
   };
+
+  onSignIn = () => {
+    const { login, password } = this.state;
+    const popa = this.props.getCurrentUser(login, password);
+  }
 
   render() {
     return (
-      <View style={styles.signIn}>
-        <View style={styles.avatarContainer}>
-          <Image
-            style={styles.avatar}
-            source={require('./avatar_2x.png')}
-          />
+      <ScrollView>
+        <Header
+          Home={() => this.props.navigation.navigate('HomeScreen')}
+          SignIn={() => this.props.navigation.navigate('SignIn')}
+          Profile={() => this.props.navigation.navigate('Profile')}
+        />
+        {!this.props.user ? (
+        <View style={styles.signIn}>
+          <View style={styles.avatarContainer}>
+            <Image
+              style={styles.avatar}
+              source={require('./avatar_2x.png')}
+            />
+          </View>
+          <View style={styles.inputContainer}>
+            <TextInput
+              style={styles.input}
+              placeholder="enter you phone number"
+              value={this.state.login}
+              onChangeText={this.onChangeLogin}
+            />
+          </View>
+          <View style={styles.inputContainer}>
+            <TextInput
+              style={styles.input}
+              placeholder="Password"
+              value={this.state.password}
+              onChangeText={this.onChangePassword}
+            />
+          </View>
+          <TouchableOpacity
+            style={styles.buttonContainer}
+            onPress={this.onSignIn}
+          >
+            <Text style={styles.buttonText} >Sign In</Text>
+          </TouchableOpacity>
+          <TouchableOpacity
+            style={styles.registrationLink}
+            onPress={() => this.props.navigation.navigate('Registration')}
+          >
+            <Text style={styles.registrationLinkText}>Registration</Text>
+          </TouchableOpacity>
+        </View> ) : (
+        <View style={styles.signIn}>
+          <Text>Successful</Text>
+          <TouchableOpacity
+            style={styles.buttonContainer}
+            onPress={() => this.props.navigation.navigate('Profile') }
+          >
+            <Text style={styles.buttonText} >Go to Profile</Text>
+          </TouchableOpacity>
+          <TouchableOpacity
+            style={styles.buttonContainer}
+          >
+            <Text style={styles.buttonText} >Log Out</Text>
+          </TouchableOpacity>
         </View>
-        <View style={styles.inputContainer}>
-          <TextInput
-            style={styles.input}
-            placeholder="enter you phone number"
-            value={this.state.placeName}
-            onChangeText={this.onPlaceNameChange}
-          />
-        </View>
-        <View style={styles.inputContainer}>
-          <TextInput
-            style={styles.input}
-            placeholder="Password"
-            value={this.state.placeName}
-            onChangeText={this.onPlaceNameChange}
-          />
-        </View>
-        <TouchableOpacity
-          style={styles.buttonContainer}
-          onPress={this.onButtonPress}
-        >
-          <Text style={styles.buttonText} >Sign In</Text>
-        </TouchableOpacity>
-        <TouchableOpacity style={styles.registrationLink}>
-          <Text style={styles.registrationLinkText}>Registration</Text>
-        </TouchableOpacity>
-      </View>
+        )}
+      </ScrollView>
     );
   }
 }
 
 const styles = StyleSheet.create({
   signIn: {
-    backgroundColor: '#F7F7F7',
+    backgroundColor: '#fff',
     alignItems: 'center',
     margin: 30,
     padding: 30,
@@ -98,6 +135,7 @@ const styles = StyleSheet.create({
     borderColor: "#245580",
     borderWidth: 0.5,
     borderRadius: 3,
+    marginTop: 5,
   },
   buttonText: {
     color: '#fff',
@@ -126,3 +164,13 @@ const styles = StyleSheet.create({
     borderTopWidth: 0.3,
   }
 });
+
+const mapStateToProps = state => ({
+  user: userSelector.getCurrentUser(state),
+});
+
+const mapDispatchToProps = {
+  getCurrentUser,
+}
+
+export default connect(mapStateToProps, mapDispatchToProps)(SignIn)

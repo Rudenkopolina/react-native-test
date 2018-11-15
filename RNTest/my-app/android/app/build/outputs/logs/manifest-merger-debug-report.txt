@@ -4,7 +4,7 @@ ADDED from C:\Users\Rudzenka_PE\Documents\react-native-test\RNTest\my-app\androi
 INJECTED from C:\Users\Rudzenka_PE\Documents\react-native-test\RNTest\my-app\android\app\src\main\AndroidManifest.xml:1:1-26:12
 INJECTED from C:\Users\Rudzenka_PE\Documents\react-native-test\RNTest\my-app\android\app\src\main\AndroidManifest.xml:1:1-26:12
 INJECTED from C:\Users\Rudzenka_PE\Documents\react-native-test\RNTest\my-app\android\app\src\main\AndroidManifest.xml:1:1-26:12
-MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\3d93f0704d45748b9190f0e9c7aa0a43\AndroidManifest.xml:2:1-15:12
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\ea60678e8f047b6d8ec0b993f062bd14\AndroidManifest.xml:2:1-15:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dbbe31c38218bf621263838d83a623c4\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7eae87e974d124a212efb571d20f78b5\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\70e60264d8a03e4ebe8915ab06e242da\AndroidManifest.xml:17:1-22:12
@@ -47,14 +47,14 @@ ADDED from C:\Users\Rudzenka_PE\Documents\react-native-test\RNTest\my-app\androi
 		ADDED from C:\Users\Rudzenka_PE\Documents\react-native-test\RNTest\my-app\android\app\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from C:\Users\Rudzenka_PE\Documents\react-native-test\RNTest\my-app\android\app\src\main\AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\3d93f0704d45748b9190f0e9c7aa0a43\AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\3d93f0704d45748b9190f0e9c7aa0a43\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\ea60678e8f047b6d8ec0b993f062bd14\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\ea60678e8f047b6d8ec0b993f062bd14\AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from C:\Users\Rudzenka_PE\Documents\react-native-test\RNTest\my-app\android\app\src\main\AndroidManifest.xml:5:22-75
 application
 ADDED from C:\Users\Rudzenka_PE\Documents\react-native-test\RNTest\my-app\android\app\src\main\AndroidManifest.xml:7:5-24:19
-MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\3d93f0704d45748b9190f0e9c7aa0a43\AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\3d93f0704d45748b9190f0e9c7aa0a43\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\ea60678e8f047b6d8ec0b993f062bd14\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\ea60678e8f047b6d8ec0b993f062bd14\AndroidManifest.xml:13:5-20
 MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\0518fa8ccccb0d7d30edb243f974c6cc\AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\0518fa8ccccb0d7d30edb243f974c6cc\AndroidManifest.xml:11:5-20
 MERGED from [org.webkit:android-jsc:r174650] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\e3ce51fc3e4d24ec7e72c0bf302806c5\AndroidManifest.xml:2:3-17
@@ -97,8 +97,8 @@ uses-sdk
 INJECTED from C:\Users\Rudzenka_PE\Documents\react-native-test\RNTest\my-app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Rudzenka_PE\Documents\react-native-test\RNTest\my-app\android\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Rudzenka_PE\Documents\react-native-test\RNTest\my-app\android\app\src\main\AndroidManifest.xml
-MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\3d93f0704d45748b9190f0e9c7aa0a43\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\3d93f0704d45748b9190f0e9c7aa0a43\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\ea60678e8f047b6d8ec0b993f062bd14\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\ea60678e8f047b6d8ec0b993f062bd14\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dbbe31c38218bf621263838d83a623c4\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dbbe31c38218bf621263838d83a623c4\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Rudzenka_PE\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7eae87e974d124a212efb571d20f78b5\AndroidManifest.xml:20:5-44
